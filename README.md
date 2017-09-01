@@ -14,3 +14,7 @@ Let's see if I can see the different versions of this file?
 Can I compare the different versions and see what is added or changed?
 
 I am going to commit it now!
+
+Okay, we're after lunch now, I am in de master file now and the readme-edit branch changes are merged before.
+
+All complete now.
