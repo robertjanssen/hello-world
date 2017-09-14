@@ -18,3 +18,5 @@ I am going to commit it now!
 Okay, we're after lunch now, I am in de master file now and the readme-edit branch changes are merged before.
 
 All complete now.
+
+Deze file is nu ook aangepast in Bash op 14-9-2017 door Roberto
