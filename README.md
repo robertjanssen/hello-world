@@ -20,3 +20,7 @@ Okay, we're after lunch now, I am in de master file now and the readme-edit bran
 All complete now.
 
 Deze file is nu ook aangepast in Bash op 14-9-2017 door Roberto
+
+En nog een aanpassing, echter nu ga ik dit bestand nog niet committen voordat ik het
+
+met git push origin_rj opstuur ...
