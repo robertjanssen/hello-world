@@ -26,3 +26,7 @@ En nog een aanpassing, echter nu ga ik dit bestand nog niet committen voordat ik
 met git push origin_rj opstuur ...
 
 Aanpassing 1:
+
+Aanpassing 2:
+
+Aanpassing 3: de vorige is alleen ge-add. D.w.z. dat hij in de tijdelijke opslag staat
